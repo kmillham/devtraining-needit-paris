@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>Other Stuf</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-10 13:12:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be18a5e5db22101011b4d1b1ca9619e7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Other Stuf</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_tabs_be18a5e5db22101011b4d1b1ca9619e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-10 13:13:04</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>62c78fa7db68330042b321c405961984</instance_id>
+        <instance_name>dev79499</instance_name>
+        <name>pa_tabs_be18a5e5db22101011b4d1b1ca9619e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>Other Stuf</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-10 13:12:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>be18a5e5db22101011b4d1b1ca9619e7</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Other Stuf</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_tabs_be18a5e5db22101011b4d1b1ca9619e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-10 13:13:04</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>1082839147</payload_hash>
+        <record_name>Other Stuf</record_name>
+        <reverted_from/>
+        <source>1c857bf7db9e101011b4d1b1ca96192e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-10 13:13:32</sys_created_on>
+        <sys_id>b068e529db22101011b4d1b1ca96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173d88133c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-10 13:13:32</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>b548e5e5462210107e47b5b82dfa735d</update_guid>
+        <update_guid_history>b548e5e5462210107e47b5b82dfa735d:-531379988,b548e5e5462210107e47b5b82dfa735d:-531379988,b548e5e5462210107e47b5b82dfa735d:-531379988,00482965f62210105fbc4bca02560a8d:413283711,a438a5e530221010c00b60e6da29c9ee:2044548205,7e18a5e53a2210102485243759ee8ae8:-2086701203</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Other Stuf">7c68e529db22101011b4d1b1ca9619a4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-10 13:13:32</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>95dc171598394cac9df3d016b92cff90</sys_id>
+        <sys_metadata>be18a5e5db22101011b4d1b1ca9619e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Other Stuf</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_tabs_be18a5e5db22101011b4d1b1ca9619e7</sys_update_name>
+        <sys_update_version display_value="pa_tabs_be18a5e5db22101011b4d1b1ca9619e7">b068e529db22101011b4d1b1ca96199f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-10 13:13:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
